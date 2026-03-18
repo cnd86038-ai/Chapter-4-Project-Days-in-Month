@@ -35,4 +35,6 @@ int main() {
 		cout << "Invalid month entered." << endl;
 		return 1; // Exit with an error code
 	}
+	// Output the number of days in the month
+	cout << "Number of days in month " << month << " of year " << year << ": " << daysInMonth << endl;
 }
