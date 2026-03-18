@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chapter 4 Project Report Days in Month/Chapter 4 Project Report Days in Month.vcxproj" />
+</Solution>
